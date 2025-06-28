@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://lidernet.co/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin panel
+Disallow: /admin
+
+# Allow all other pages
+Allow: /
